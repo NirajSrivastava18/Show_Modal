@@ -1,6 +1,6 @@
 # Show modal
 
-A modal window UI using DOMm
+A modal window UI using DOM
 
 
 ![](images/image1.png)

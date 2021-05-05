@@ -1,4 +1,4 @@
-# Guess_The_Number
+# Show modal
 
 A modal window UI using DOMm
 
